@@ -1,1 +1,19 @@
 Welcome to my favorite recipe
+
+## Spaghetti Carbonara
+
+**Ingredients:**
+- Spaghetti
+- Eggs
+- Parmesan cheese
+- Pancetta
+- Black pepper
+
+**Instructions:**
+1. Cook the spaghetti according to package instructions.
+2. In a bowl, whisk the eggs and grate the Parmesan cheese.
+3. Cook the pancetta until crispy.
+4. Toss the spaghetti with the pancetta and remove from heat.
+5. Quickly mix in the egg and cheese mixture.
+6. Season with black pepper and serve.
+
